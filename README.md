@@ -44,3 +44,5 @@ sample_submission.zip contains the submission format for the predictions against
 Submissions are evaluated on F1-Score between the predicted class and the observed target.
 
 # LeaderBoard F1-Score: 0.31315315 (Public Leaderboard)
+
+Highest F1-Score in the leaderBoard = 0.3589
